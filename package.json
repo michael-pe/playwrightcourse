@@ -1,0 +1,20 @@
+{
+  "name": "playwrightcourse",
+  "version": "1.0.0",
+  "description": "Playwright E2E Test with AI Capabilities incl MCP",
+  "keywords": [
+    "playwright",
+    "playwright-e2e-tests",
+    "playwrightcourse",
+    "playwright-mcp"
+  ],
+  "license": "ISC",
+  "author": "Michael Pravin Elango",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {},
+  "devDependencies": {
+    "@playwright/test": "^1.56.1",
+    "@types/node": "^24.10.0"
+  }
+}
